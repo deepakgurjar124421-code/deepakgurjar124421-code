@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Gurmeet%20Singh&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=55&desc=Machine%20Learning%20Engineer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlign=50&descAlignY=55&animation=fadeIn"/>
+<img src="https://chatgpt.com/s/m_6a55fd5c11e481919ea0c652529e772b">
 </p>
 
 <div align="center">
@@ -26,7 +26,9 @@
 
 # 🚀 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R0b2JvMHV4eGNqNjFjY3M2d3Q5cnM1dWt0NnI0c3NlbWRlMzVnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NqM2R6d3Y0dXl2Y3NzdzM5cDVxNGc3d3d2OWR4c2dzNnQ2d3F2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
+</p>
 
 I'm **Gurmeet Singh**, a passionate **BCA (Artificial Intelligence & Machine Learning)** student from India who enjoys building intelligent applications using modern AI technologies.
 
@@ -84,13 +86,8 @@ portfolio-2un7xjan3-deepakgurjar124421-3029s-projects.vercel.app
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
 
 </p>
 
@@ -208,6 +205,12 @@ portfolio-2un7xjan3-deepakgurjar124421-3029s-projects.vercel.app
 **Bachelor of Computer Applications (AI & Machine Learning)**
 
 🎓 Invertis University
+
+📍 Uttar Pradesh, India
+
+**Bachelor of Arts (Polity, Hindi & History)**
+
+🎓 Bareilly College Bareilly
 
 📍 Uttar Pradesh, India
 
