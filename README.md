@@ -70,7 +70,7 @@ My goal is to become a **Machine Learning Engineer** capable of developing scala
 
 # 🌎 Portfolio
 
-Coming Soon...
+portfolio-2un7xjan3-deepakgurjar124421-3029s-projects.vercel.app
 
 ---
 
@@ -505,7 +505,7 @@ My long-term goals are to:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/deepakgurjar124421-code/deepakgurjar124421-code/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/deepakgurjar124421-code/deepakgurjar124421-code/.github/workflows/snake.yml" />
 
 </p>
 
@@ -525,7 +525,7 @@ My long-term goals are to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="deepakgurjar124421@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
