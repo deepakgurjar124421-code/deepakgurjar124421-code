@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurmeet Singh</h1>
 
 <h3 align="center">
-BCA (AI & ML) Student • Data Analyst • Python Developer • Power BI Enthusiast
+BCA (AI & ML) Student • Data Analyst • Aspiring Machine Learning Engineer • Power BI Enthusiast
 </h3>
 
 <p align="center">
