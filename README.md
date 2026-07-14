@@ -1,118 +1,599 @@
-<h1 align="center">Hi 👋, I'm Gurmeet Singh</h1>
-<h3 align="center">BCA AI/ML Student | Data Analytics | Machine Learning | Power BI Developer</h3>
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Always+Learning+New+Things&center=true&width=700&height=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Gurmeet%20Singh&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=55&desc=Machine%20Learning%20Engineer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlign=50&descAlignY=55&animation=fadeIn"/>
+</p>
+
+<div align="center">
+
+# 👋 Hello World, I'm Gurmeet Singh
+
+### 🚀 Machine Learning Engineer | Data Analytics | AI Enthusiast | Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Analytics+Specialist;Power+BI+Developer;Always+Learning+New+Things+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Transforming Data into Intelligent Solutions"
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R0b2JvMHV4eGNqNjFjY3M2d3Q5cnM1dWt0NnI0c3NlbWRlMzVnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
+
+I'm **Gurmeet Singh**, a passionate **BCA (Artificial Intelligence & Machine Learning)** student from India who enjoys building intelligent applications using modern AI technologies.
+
+I love solving real-world problems with:
+
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🐍 Python
+- 🗄 SQL
+- 📉 Data Visualization
+
+My goal is to become a **Machine Learning Engineer** capable of developing scalable AI solutions that create meaningful impact.
+
+---
+
+# 🎯 Current Focus
+
+```text
+🤖 Machine Learning
+
+🧠 Deep Learning
+
+📊 Data Analytics
+
+📈 Power BI
+
+🐍 Python
+
+💻 Open Source
+
+☁ Cloud Computing
+
+⚡ MLOps
+
+🚀 AI Projects
+```
+
+---
+
+# 🌎 Portfolio
+
+Coming Soon...
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🤖 Machine Learning Stack
 
-🎓 BCA (Artificial Intelligence & Machine Learning)
+<p align="center">
 
-📊 Passionate about Data Analytics, Machine Learning & Business Intelligence
+<img src="https://skillicons.dev/icons?i=python"/>
 
-💻 Skilled in Python, SQL, Power BI & Excel
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-📈 Love transforming raw data into meaningful insights
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
-🚀 Currently learning:
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+</p>
+
+### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- OpenCV
+
+---
+
+# 📊 Data Analytics
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+✔ Statistical Analysis
+
+✔ Business Intelligence
+
+✔ Feature Engineering
+
+✔ Data Storytelling
+
+---
+
+# 📈 Business Intelligence
+
+- Power BI
+
+- Excel
+
+- DAX
+
+- Power Query
+
+- KPI Dashboard
+
+- Interactive Reports
+
+- Business Insights
+
+---
+
+# ☁ Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Machine Learning | ██████████░ 90% |
+| Deep Learning | ███████░░░ 70% |
+| NLP | ██████░░░░ 60% |
+| Computer Vision | █████░░░░░ 50% |
+| LangChain | ████░░░░░░ 40% |
+| AI Agents | ███░░░░░░░ 30% |
+| MLOps | ███░░░░░░░ 30% |
+| Docker | ███░░░░░░░ 30% |
+| FastAPI | ████░░░░░░ 40% |
+
+</div>
+
+---
+
+# 🧰 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=windows"/>
+
+<img src="https://skillicons.dev/icons?i=stackoverflow"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+**Bachelor of Computer Applications (AI & Machine Learning)**
+
+🎓 Invertis University
+
+📍 Uttar Pradesh, India
+
+---
+
+# 💼 Career Objective
+
+> Passionate about Artificial Intelligence, Machine Learning, and Data Analytics with a strong interest in solving real-world problems through data-driven solutions. Continuously learning new technologies while building practical projects and contributing to open-source communities.
+
+---
+
+<div align="center">
+
+## ⭐ Scroll Down For Projects, GitHub Stats & Animations ⭐
+
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+</div>
+
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+> Building practical AI, Machine Learning and Data Analytics solutions.
+
+</div>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Flipkart Sales Dashboard
+
+### Technologies
+
+Power BI • Excel • SQL
+
+### Features
+
+- Interactive Dashboard
+- Sales KPIs
+- Customer Insights
+- Regional Analysis
+- Profit Analysis
+- Product Performance
+
+</td>
+
+<td width="50%">
+
+## 👨‍💼 HR Analytics Dashboard
+
+### Technologies
+
+Power BI • Excel
+
+### Features
+
+- Employee Attrition
+- Workforce Analysis
+- Department KPIs
+- Performance Dashboard
+- Interactive Reports
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🚗 Road Accident Analysis
+
+### Technologies
+
+Excel • SQL • Power BI
+
+### Features
+
+- Accident Trends
+- Casualty Analysis
+- State-wise Dashboard
+- Interactive Charts
+
+</td>
+
+<td width="50%">
+
+## 🤖 Machine Learning Projects
+
+### Technologies
+
+Python • Scikit-Learn
+
+### Projects
+
+- Regression
+- Classification
+- Data Preprocessing
+- Model Evaluation
+- Feature Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📂 More Projects
+
+- 🐍 Python Automation
+- 📈 Data Visualization
+- 📊 Power BI Dashboards
+- 💰 Payroll Management System
+- 📚 Library Management System
+- 🗄 SQL Practice
+- 📉 Exploratory Data Analysis
+- 🤖 AI Mini Projects
+
+---
+
+# 🏅 Certifications
+
+- ✅ Google Data Analytics
+- ✅ Python Programming
+- ✅ SQL Fundamentals
+- ✅ Microsoft Excel
+- ✅ Power BI
+- ✅ AI & Machine Learning (Ongoing)
+
+---
+
+# 📖 Currently Learning
+
 - Machine Learning
 - Deep Learning
+- Neural Networks
 - NLP
-- Open Source LLMs
+- LLM Applications
+- LangChain
+- AI Agents
+- Computer Vision
+- MLOps
+- Docker
+- FastAPI
+- AWS Basics
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-Python • SQL • C
-
-### Data Analytics
-
-Pandas
-NumPy
-Matplotlib
-Seaborn
-
-### BI Tools
-
-Power BI
-Excel
-DAX
-
-### Databases
-
-MySQL
-
-### Tools
-
-Git
-GitHub
-Jupyter Notebook
-VS Code
-
----
-
-## 📂 Featured Projects
-
-📊 HR Analytics Dashboard (Power BI)
-
-📈 Sales Dashboard
-
-🚗 Road Accident Analysis Dashboard
-
-👨‍💼 Employee Attrition Analysis (Python)
-
-💰 Payroll Management System
-
-📚 Library Book Management System (C)
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakgurjar124421-code&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakgurjar124421-code&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgurjar124421-code&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgurjar124421-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakgurjar124421-code&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakgurjar124421-code&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakgurjar124421-code&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakgurjar124421-code&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🏆 GitHub Trophies
 
-LinkedIn:
-https://linkedin.com/in/gurmeetsingh124
+<p align="center">
 
-GitHub:
-https://github.com/deepakgurjar124421-code
+<img src="https://github-profile-trophy.vercel.app/?username=deepakgurjar124421-code&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
-⭐ "Turning Data into Decisions."
+# 📅 2026 Goals
+
+- 🎯 Build 25+ Data Analytics Projects
+- 🎯 Complete 15+ Machine Learning Projects
+- 🎯 Learn Deep Learning
+- 🎯 Learn Computer Vision
+- 🎯 Learn NLP
+- 🎯 Build AI Agents
+- 🎯 Learn LangChain
+- 🎯 Learn MLOps
+- 🎯 Contribute to Open Source
+- 🎯 Earn AI Certifications
+- 🎯 Land an AI / ML Internship
+
+---
+
+# 📚 Favorite Technologies
+
+<table>
+
+<tr>
+
+<td>🐍 Python</td>
+
+<td>📊 Power BI</td>
+
+<td>📈 Pandas</td>
+
+<td>📉 NumPy</td>
+
+</tr>
+
+<tr>
+
+<td>📊 Matplotlib</td>
+
+<td>📉 Seaborn</td>
+
+<td>🗄 SQL</td>
+
+<td>🤖 Scikit-Learn</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💻 Coding Profiles
+
+- GitHub
+- LinkedIn
+- Kaggle *(add once you have a profile)*
+- LeetCode *(optional)*
+- HackerRank *(optional)*
+
+---
+
+<div align="center">
+
+## ⭐ Keep Learning • Keep Building • Keep Sharing ⭐
+
+</div>
+
+
+# 🌍 Open Source Journey
+
+I enjoy learning through building and sharing projects.
+
+My long-term goals are to:
+
+- 🤝 Contribute to Open Source Projects
+- 🤖 Build Real-world AI Applications
+- 📊 Create Interactive Dashboards
+- 🧠 Develop Production-ready Machine Learning Models
+- 🌎 Collaborate with Developers Worldwide
+
+---
+
+# 🚀 Areas of Interest
+
+<div align="center">
+
+| AI | Data | Development |
+|----|------|-------------|
+| 🤖 Machine Learning | 📊 Data Analytics | 🐍 Python |
+| 🧠 Deep Learning | 📈 Power BI | ⚡ Automation |
+| 💬 NLP | 📉 Data Visualization | 🌐 APIs |
+| 👁 Computer Vision | 🗄 SQL | ☁ Cloud |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/deepakgurjar124421-code/deepakgurjar124421-code/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+> **Note:** This animation won't appear until you set up the GitHub Action that generates it.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/gurmeetsingh124">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deepakgurjar124421-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=deepakgurjar124421-code&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Professional Philosophy
+
+> "Great machine learning starts with understanding the problem, preparing quality data, and continuously improving through experimentation."
+
+---
+
+# 🌱 Beyond Coding
+
+Outside of programming, I enjoy:
+
+- 📚 Learning emerging AI technologies
+- 🧩 Solving programming challenges
+- 📈 Exploring data-driven insights
+- 💻 Building portfolio projects
+- 🤝 Sharing knowledge with the community
+
+---
+
+# 🎯 2026 Vision
+
+- ✅ Become a skilled Machine Learning Engineer
+- ✅ Build impactful AI projects
+- ✅ Contribute to open source
+- ✅ Publish high-quality GitHub repositories
+- ✅ Earn industry-recognized certifications
+- ✅ Secure an AI / ML internship
+
+---
+
+# ⭐ If You Like My Work
+
+<p align="center">
+
+⭐ Star the repositories you find useful.
+
+🍴 Fork projects to explore and learn.
+
+🤝 Let's connect and grow together!
+
+</p>
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
+
+<!-- END OF README -->
+
+<!-- END OF PART 1 -->
