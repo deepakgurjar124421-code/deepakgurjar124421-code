@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://chatgpt.com/s/m_6a55fd5c11e481919ea0c652529e772b">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Gurmeet%20Singh&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=55&desc=Machine%20Learning%20Engineer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlign=50&descAlignY=55&animation=fadeIn"/>
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ### 🚀 Machine Learning Engineer | Data Analytics | AI Enthusiast | Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Analytics+Specialist;Power+BI+Developer;Always+Learning+New+Things+🚀"/>
+<img src="https://ibb.co/WWNjsVPs"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 # 🚀 About Me
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NqM2R6d3Y0dXl2Y3NzdzM5cDVxNGc3d3d2OWR4c2dzNnQ2d3F2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Analytics+Specialist;Power+BI+Developer;Always+Learning+New+Things+🚀"/>
 </p>
 
 I'm **Gurmeet Singh**, a passionate **BCA (Artificial Intelligence & Machine Learning)** student from India who enjoys building intelligent applications using modern AI technologies.
