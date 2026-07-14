@@ -1,101 +1,118 @@
 <h1 align="center">Hi 👋, I'm Gurmeet Singh</h1>
-
-<h3 align="center">
-BCA (AI & ML) Student • Data Analyst • Aspiring Machine Learning Engineer • Power BI Enthusiast
-</h3>
+<h3 align="center">BCA AI/ML Student | Data Analytics | Machine Learning | Power BI Developer</h3>
 
 <p align="center">
-Passionate about turning raw data into meaningful insights through analytics, visualization, and machine learning.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Always+Learning+New+Things&center=true&width=700&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BCA in Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Analytics & Business Intelligence
-- 🐍 Python Developer
-- 📈 Power BI Dashboard Developer
-- 🗄️ SQL & Database Enthusiast
-- 🤖 Currently learning Machine Learning & NLP
+🎓 BCA (Artificial Intelligence & Machine Learning)
+
+📊 Passionate about Data Analytics, Machine Learning & Business Intelligence
+
+💻 Skilled in Python, SQL, Power BI & Excel
+
+📈 Love transforming raw data into meaningful insights
+
+🚀 Currently learning:
+- Machine Learning
+- Deep Learning
+- NLP
+- Open Source LLMs
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
+Python • SQL • C
 
 ### Data Analytics
 
-Power BI
-
-Excel
-
 Pandas
-
 NumPy
-
 Matplotlib
-
 Seaborn
 
----
+### BI Tools
+
+Power BI
+Excel
+DAX
+
+### Databases
+
+MySQL
 
 ### Tools
 
 Git
-
 GitHub
-
-VS Code
-
 Jupyter Notebook
+VS Code
 
 ---
 
 ## 📂 Featured Projects
 
+📊 HR Analytics Dashboard (Power BI)
+
+📈 Sales Dashboard
+
 🚗 Road Accident Analysis Dashboard
 
-📈 Flipkart Sales Dashboard
-
-👨‍💼 HR Analytics Dashboard
-
-📊 Employee Attrition Analysis
+👨‍💼 Employee Attrition Analysis (Python)
 
 💰 Payroll Management System
 
-📚 Library Management System
+📚 Library Book Management System (C)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=deepakgurjar124421-code&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgurjar124421-code&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakgurjar124421-code&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgurjar124421-code&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakgurjar124421-code&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakgurjar124421-code&theme=tokyonight">
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 Contribution Graph
 
-- LinkedIn: https://linkedin.com/in/gurmeetsingh124
-- GitHub: https://github.com/deepakgurjar124421-code
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakgurjar124421-code&theme=tokyo-night">
+
+</p>
 
 ---
 
-⭐ *Turning Data into Decisions with Analytics & AI*
+## 🌐 Connect with Me
+
+LinkedIn:
+https://linkedin.com/in/gurmeetsingh124
+
+GitHub:
+https://github.com/deepakgurjar124421-code
+
+---
+
+⭐ "Turning Data into Decisions."
