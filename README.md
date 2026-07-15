@@ -10,7 +10,7 @@
 
 ### 🚀 Machine Learning Engineer | Data Analytics | AI Enthusiast | Python Developer
 
-<img src="https://ibb.co/WWNjsVPs"/>
+<img src="https://imgh.in/host/i5xz4d"/>
 
 </div>
 
