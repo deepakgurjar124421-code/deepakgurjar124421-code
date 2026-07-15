@@ -27,7 +27,7 @@
 # 🚀 About Me
 
 <p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Analytics+Specialist;Power+BI+Developer;Always+Learning+New+Things+🚀"/>
+  <img src="https://imgh.in/host/1yq74f">
 </p>
 
 I'm **Gurmeet Singh**, a passionate **BCA (Artificial Intelligence & Machine Learning)** student from India who enjoys building intelligent applications using modern AI technologies.
