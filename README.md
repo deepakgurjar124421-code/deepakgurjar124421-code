@@ -10,8 +10,10 @@
 # 👋 Hi, I'm Gurmeet Singh
 
 ### 🚀 AI & Machine Learning Student | Data Analyst | Python Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI+Solutions;Machine+Learning+Enthusiast;Python+Developer;Data+Analytics+Projects;Power+BI+Dashboard+Developer;Always+Learning+New+Technologies+🚀"/>
+<img aligh="center" width="300" length="230" src="https://imgh.in/host/5zo97s"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI+Solutions;Machine+Learning+Enthusiast;Python+Developer;Data+Analytics+Projects;Power+BI+Dashboard+Developer;Always+Learning+New+Technologies"/>
+</p>
 
 <p>
 
@@ -171,7 +173,7 @@
 
 <div align="center">
 
-## 🚀 Scroll Down for GitHub Analytics, Projects & More
+## 🚀 Scroll Down for GitHub Contribution, Projects & More
 
 ⬇️ ⬇️ ⬇️
 
@@ -180,16 +182,6 @@
 <!--          PREMIUM MACHINE LEARNING ENGINEER README         -->
 <!--                     PART 2 OF 4                           -->
 <!-- ========================================================= -->
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakgurjar124421-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgurjar124421-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -211,17 +203,6 @@
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepakgurjar124421-code&theme=tokyonight&row=2&column=4&no-frame=true&margin-w=15"/>
-
-</div>
-
----
 
 # 🚀 Professional Skills
 
@@ -347,17 +328,19 @@ MLOps               ██░░░░░░░░ 20%
 
 <td width="50%">
 
-## 📊 Flipkart Sales Dashboard
+## 📊 Flipkart Sales Analysis
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgurjar124421-code&repo=Flipkart-Dashboard&theme=tokyonight"/>
+
 
 ### 📌 Highlights
 
-- 📈 Sales KPI Dashboard
-- 💰 Revenue Analysis
-- 🛒 Product Insights
-- 📊 Interactive Visualizations
-- ⚡ Power BI
+- Sales KPI Dashboard
+- Revenue Analysis
+- Product Insights
+- Interactive Visualizations
+- Power BI
+- Pandas,NumPy
+- Machine Learning
 
 </td>
 
@@ -365,7 +348,7 @@ MLOps               ██░░░░░░░░ 20%
 
 ## 👨‍💼 HR Analytics Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgurjar124421-code&repo=HR-Analytics-Dashboard&theme=tokyonight"/>
+
 
 ### 📌 Highlights
 
@@ -374,6 +357,7 @@ MLOps               ██░░░░░░░░ 20%
 - Department KPIs
 - Dashboard Design
 - Power BI
+- Data Cleaning
 
 </td>
 
@@ -385,7 +369,6 @@ MLOps               ██░░░░░░░░ 20%
 
 ## 🚗 Road Accident Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgurjar124421-code&repo=Road-Accident-Dashboard&theme=tokyonight"/>
 
 ### 📌 Highlights
 
@@ -401,7 +384,7 @@ MLOps               ██░░░░░░░░ 20%
 
 ## 🤖 Machine Learning
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgurjar124421-code&repo=Machine-Learning&theme=tokyonight"/>
+
 
 ### 📌 Highlights
 
@@ -421,7 +404,6 @@ MLOps               ██░░░░░░░░ 20%
 
 # 💻 Python Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakgurjar124421-code&repo=Python-Projects&theme=tokyonight"/>
 
 ### Skills Demonstrated
 
@@ -480,73 +462,12 @@ MLOps               ██░░░░░░░░ 20%
 
 🚗 Road Accident Dashboard
 
-📦 Inventory Dashboard
+📦 Flipkart Inventory Dashboard
 
 📉 Business Analytics Dashboard
 
 ---
 
-# 🗄 Database Skills
-
-- SQL Queries
-
-- JOIN
-
-- GROUP BY
-
-- Aggregate Functions
-
-- Views
-
-- Stored Procedures
-
-- Data Cleaning
-
----
-
-# 📚 Project Workflow
-
-```text
-Business Problem
-
-↓
-
-Data Collection
-
-↓
-
-Data Cleaning
-
-↓
-
-EDA
-
-↓
-
-Visualization
-
-↓
-
-Machine Learning
-
-↓
-
-Evaluation
-
-↓
-
-Deployment
-
-↓
-
-Dashboard
-
-↓
-
-Business Insights
-```
-
----
 
 # 🌍 Open Source Goals
 
@@ -603,7 +524,7 @@ Business Insights
 </a>
 
 <!-- Replace with your real email -->
-<a href="mailto:your.email@example.com">
+<a href="deepakgurjar124421@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
