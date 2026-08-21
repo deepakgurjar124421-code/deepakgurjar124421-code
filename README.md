@@ -10,7 +10,7 @@
 # 👋 Hi, I'm Gurmeet Singh
 
 ### 🚀 AI & Machine Learning Student | Data Analyst | Python Developer
-<img aligh="center" width="300" length="230" src="https://imgh.in/host/5zo97s"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI+Solutions;Machine+Learning+Enthusiast;Python+Developer;Data+Analytics+Projects;Power+BI+Dashboard+Developer;Always+Learning+New+Technologies"/>
 </p>
